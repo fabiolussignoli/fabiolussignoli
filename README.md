@@ -1,2 +1,2 @@
 # 👋 Welcome!
-computer engineering student **@ Unibs** and technical assistant **@ CoanSistemi**
+computer science engineering student **@ Unibs** and tech assistant **@ CoanSistemi**
