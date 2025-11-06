@@ -1,2 +1,2 @@
 # 👋 Welcome!
-computer science engineering student **@ Unibs** and tech assistant **@ Coan Sistemi**
+CS student at Università degli Studi di Bresica and developer at Coan Sistemi
