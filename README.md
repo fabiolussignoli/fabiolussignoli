@@ -1,2 +1,2 @@
-# 👋 Welcome!
-CS student at Università degli Studi di Brescia and developer at Coan Sistemi
+# 👋 Benvenuto!
+Studente di Ingegneria Informatica presso l'Università degli Studi di Brescia
